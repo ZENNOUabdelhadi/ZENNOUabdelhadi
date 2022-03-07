@@ -1,4 +1,4 @@
-<img src="https://github.com/ZENNOUabdelhadi/ZENNOU-Abdelhadi/blob/main/moi.PNG" alt="banner that says hello,my name ABDELHADI ">
+<img src="https://github.com/ZENNOUabdelhadi/ZENNOUabdelhadi/blob/main/moi.PNG" alt="banner that says hello,my name ABDELHADI ">
 <!-- retro visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/ZENNOUabdelhadi/count.svg" />
